@@ -24,7 +24,7 @@ public class Task {
 	}
 	
 	
-	@SuppressWarnings("unlikely-arg-type")
+
 	@Override
 	public boolean equals(Object obj) {
 		Task theTask = null;
