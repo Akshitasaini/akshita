@@ -1,4 +1,5 @@
-package myonlineshop;
+           \
+           package myonlineshop;
 
 public class Book extends Product {
 	public String publisher;
